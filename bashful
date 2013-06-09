@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#
+# Bashful v0.1.0
+# 
+# Include bashful at the top of your bash script,
+# assuming it's in the same directory as your executing
+# script:
+# 
+# 	. bashful.sh
+# 
+# @author Michael Scott Hertzberg
